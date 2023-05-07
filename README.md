@@ -13,11 +13,11 @@
 
 ### Built with
 
--B.E.M
--Advanced CSS and SASS
--Animations without Javascript
--NPM Scripts
--Responsive Grid System 
+- B.E.M
+- Advanced CSS and SASS
+- Animations without Javascript
+- NPM Scripts
+- Responsive Grid System 
 - Semantic HTML5
 
 
