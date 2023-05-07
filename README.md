@@ -9,7 +9,7 @@
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://natours-karim.netlify.app)
+- Live Site URL: [Natours](https://natours-karim.netlify.app)
 
 ### Built with
 
